@@ -2,4 +2,38 @@
     <string name="app_name">AboutMe-Final</string>
     <string name="name">Atik</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        In Android, a ScrollView is a view group that is u
+        sed to make vertically scrollable views. A scroll view
+        contains a single direct child only. In order to place mul
+        tiple views in the scroll view, o
+        ne needs to make a view group(like LinearLayout) as a di
+        rect chi
+        ld and then we can define many views inside it.M
+        ay 24, 2021
+        In Android, a ScrollView is a view group that is u
+        sed to make vertically scrollable views. A scroll view
+        contains a single direct child only. In order to place mul
+        tiple views in the scroll view, o
+        ne needs to make a view group(like LinearLayout) as a di
+        rect chi
+        ld and then we can define many views inside it.M
+        ay 24, 2021
+        In Android, a ScrollView is a view group that is u
+        sed to make vertically scrollable views. A scroll view
+        contains a single direct child only. In order to place mul
+        tiple views in the scroll view, o
+        ne needs to make a view group(like LinearLayout) as a di
+        rect chi
+        ld and then we can define many views inside it.M
+        ay 24, 2021
+        In Android, a ScrollView is a view group that is u
+        sed to make vertically scrollable views. A scroll view
+        contains a single direct child only. In order to place mul
+        tiple views in the scroll view, o
+        ne needs to make a view group(like LinearLayout) as a di
+        rect chi
+        ld and then we can define many views inside it.M
+        ay 24, 2021
+    </string>
 </resources>
