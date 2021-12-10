@@ -18,11 +18,13 @@
 
     <EditText
         android:id="@+id/nickname_edit"
+        style="@style/NameStylecomplee"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name" />
+        android:hint="@string/What_is_your_name"
+        android:inputType="textMultiLine|textPersonName"
+        android:minHeight="48dp" />
 
     <ImageView
         android:id="@+id/star_image"

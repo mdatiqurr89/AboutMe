@@ -36,4 +36,5 @@
         ld and then we can define many views inside it.M
         ay 24, 2021
     </string>
+    <string name="What_is_your_name">What is your name?</string>
 </resources>
